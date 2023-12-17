@@ -1,0 +1,20 @@
+{
+  "template": {
+    "filename": "developpement-mobile.png",
+    "styles": {
+      "font-filename": "Roboto-Light.ttf",
+      "size": 90,
+      "fill-color": "#767676",
+      "top-coordinate": 640
+    }
+  },
+  "email": {
+    "sender-credentials": {
+      "email": "tarekhammamixsandbox@gmail.com",
+      "password": "<ENTER YOUR PASSWORD HERE>"
+    },
+    "subject": "Certificat de participation",
+    "body": "Bonsoir <em>$fullname</em>.<br/>Notre équipe de <b>Maseer ISET Béja</b> vous remercions très sincèrement pour votre participation à notre formation en ligne.<br/>Cordialement.",
+    "attached-certificate-filename": "Certificat de participation"
+  }
+}
